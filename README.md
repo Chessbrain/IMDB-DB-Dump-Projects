@@ -8,9 +8,9 @@ Welcome to my public projects related to IMDBs database dumps :) Here is what th
 * **Creating the Data Warehouse** (To be implemented)
 * **Data Mining** (To be implemented)
 
-To make it easier to traverse this project as it gets bigger, I am going to put links to quickly go to the location you want to.
+To make it easier to traverse this project as it gets bigger, I am going to put links to quickly go to the sections you want to.
 
-**Where to get the data, how to import it including the idea of the relational model solution are at the bottom after the sections**
+**Where to get the data, how to import it, including the idea of the relational model solution are in the "How to get started" and "Explanation of the solution" sections**
 
 ## Relational Model Project
 
