@@ -4,7 +4,6 @@ Welcome to my public projects related to IMDBs database dumps :) Here is what th
 
 * **[Turning IMDB's DB dump into a relational database](https://github.com/Chessbrain/IMDB_RelationalDB_Project/tree/master/Relational%20IMDB)**
 * **[Creating the Data Warehouse](https://github.com/Chessbrain/IMDB-DB-Dump-Projects/tree/master/Data%20Warehouse)**
-* **Data Mining** (To be implemented)
 
 To make it easier to traverse this project as it gets bigger, I am going to put links to quickly go to the sections you want to.
 
