@@ -74,5 +74,3 @@ The way I solved this is probably not the best way possible, but it works. I mad
 There is a link up there to take you immediately to the respective folder holding the script
 
 After you import into the dummy tables the data from the tsv tables all you have to do now is write simple SELECT queries with INNER JOIN on the tconst and nconst fields instead of the generated ID.
-
-**This project will be updated constantly over time when I am free. Until stated otherwise, this project is still alive until finished with all 3 sections finished.**
