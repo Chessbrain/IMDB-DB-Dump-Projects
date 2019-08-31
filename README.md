@@ -59,7 +59,7 @@ One of the biggest problems with this database are arrays, if you want to normal
 
 Depending on how you will solve this, you might be able to convert certain strings to their respective types. But in my solution dates and pretty much all other attributes except for Ratings are done in nvarchar. So most of your tables will have nvarchar as attribute types.
 
-The IMDB_SCHEMA_TABLES script creates all tables and their respective schemas, this will be your “production” database, where your final product will be. **The Title.ActedOn table will be changed from the Title Schema to the Cast schema in the next version of this project**
+The IMDB_SCHEMA_TABLES script creates all tables and their respective schemas, this will be your “production” database, where your final product will be.
 
 The script for the Title_Crew table runned for around 2 hours on my rig, it outputs around 13.6 milion rows (around 4 million before splitting it). So, keep that in mind.
 
