@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "IMDB_Cube", "IMDB_Cube\IMDB_Cube.dwproj", "{BD5CAC49-D6CD-4EED-B802-593A7899B94D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD5CAC49-D6CD-4EED-B802-593A7899B94D}.Development|Default.ActiveCfg = Development
+		{BD5CAC49-D6CD-4EED-B802-593A7899B94D}.Development|Default.Build.0 = Development
+		{BD5CAC49-D6CD-4EED-B802-593A7899B94D}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
