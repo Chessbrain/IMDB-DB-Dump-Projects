@@ -21,7 +21,7 @@ The solution focuses on answering questions such as:
  - Which combination of Director and Writer produced the most consistent good ratings
  - What genres perform badly (in a specific year) therefor, are probably a bad investment
 
-↑ Just to give a few examples. I have also opted to used a [Star Schema](https://docs.microsoft.com/en-us/power-bi/guidance/star-schema) over [Snowflake](https://docs.microsoft.com/en-us/analysis-services/multidimensional-models-olap-logical-dimension-objects/dimensions-introduction) mainly because there was no need to over complicate, and my solution overall required no extra connections between the tables.
+↑ Just to give a few examples. I have also opted to use a [Star Schema](https://docs.microsoft.com/en-us/power-bi/guidance/star-schema) over [Snowflake](https://docs.microsoft.com/en-us/analysis-services/multidimensional-models-olap-logical-dimension-objects/dimensions-introduction) mainly because there was no need to over complicate, and my solution overall required no extra connections between the tables.
 
 ### Hierarchies 
 The Cube solution will be missing hierarchies, simply because there is no hierarchy. Dates in the database are only on the [Year] level and there are no data sets that require hierarchies.
