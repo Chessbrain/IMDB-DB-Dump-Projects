@@ -31,3 +31,6 @@ The DW_Schema.sql file will create the DW Dim and Fact tables including their FK
 
 ### Time Dimension
 You may have noticed that the DimDate table only has [Year] as an attribute. Some of you may be wondering why the granularity level wasn't reduced to include at least a month, that's because the database dump itself lacks that info. Therefor, there was no reason to generate useless data.
+
+### FactRatings
+You will also notice [NumVotes] being the type of BIGINT, that's because when the data is summarized is exceeds the 32bit range and goes into the negative numbers.
