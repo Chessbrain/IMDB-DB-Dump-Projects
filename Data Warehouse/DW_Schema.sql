@@ -37,6 +37,6 @@ WriterKey int FOREIGN KEY (WriterKey) REFERENCES DimWriter(WriterKey) NOT NULL,
 DateKey int FOREIGN KEY (DateKey) REFERENCES DimDate(DateKey) NOT NULL,
 TitleTypeKey int FOREIGN KEY (TitleTypeKey) REFERENCES DimTitleType(TitleTypeKey),
 Rating float NOT NULL,
-NumVotes int NOT NULL
+NumVotes bigint NOT NULL
 )
 GO
