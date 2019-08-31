@@ -9,6 +9,8 @@ To make it easier to traverse this project as it gets bigger, I am going to put 
 
 **Where to get the data, how to import it, including the idea of the relational model solution are in the "How to get started" and "Explanation of the solution" sections**
 
+Below are links to get you quickly to the destinations you require. **For the Data Warehouse project I recommend going to the general folder first due to the README. There is important info there**
+
 ## Relational Model Project
 
 * **[Title_Type and Cast_Profession Tables' Data](https://github.com/Chessbrain/IMDB_RelationalDB_Project/tree/master/Relational%20IMDB/Included%20Data)**
@@ -18,11 +20,9 @@ To make it easier to traverse this project as it gets bigger, I am going to put 
 
 ## Data Warehouse Project
 
--------------------- To be implemented --------------------
-
-## Data Mining Project
-
--------------------- To be implemented --------------------
+* **[ETL](https://github.com/Chessbrain/IMDB-DB-Dump-Projects/tree/master/Data%20Warehouse/IMDB_ETL)**
+* **[Cube](https://github.com/Chessbrain/IMDB-DB-Dump-Projects/tree/master/Data%20Warehouse/IMDB_Cube)**
+* **[DimDate Generation](https://github.com/Chessbrain/IMDB-DB-Dump-Projects/tree/master/Data%20Warehouse/Generate%20%5BYears%5D%20for%20%20DimDate)**
 
 ## How to get started
 
